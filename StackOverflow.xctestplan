@@ -1,0 +1,39 @@
+{
+  "configurations" : [
+    {
+      "id" : "09F17E64-B44B-4308-B098-649AF02F6BB9",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:StackOverflow.xcodeproj",
+      "identifier" : "7CEAD0FE2F4A6559004E7C4E",
+      "name" : "StackOverflow"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:StackOverflow.xcodeproj",
+        "identifier" : "7CEAD1142F4A655B004E7C4E",
+        "name" : "StackOverflowTests"
+      }
+    },
+    {
+      "enabled" : false,
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:StackOverflow.xcodeproj",
+        "identifier" : "7CEAD11E2F4A655B004E7C4E",
+        "name" : "StackOverflowUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

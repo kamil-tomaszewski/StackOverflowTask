@@ -24,6 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7CA658672F50719900CF081A /* StackOverflow.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = StackOverflow.xctestplan; sourceTree = "<group>"; };
 		7CEAD0FF2F4A6559004E7C4E /* StackOverflow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StackOverflow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CEAD1152F4A655B004E7C4E /* StackOverflowTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StackOverflowTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CEAD11F2F4A655B004E7C4E /* StackOverflowUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StackOverflowUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +89,7 @@
 		7CEAD0F62F4A6559004E7C4E = {
 			isa = PBXGroup;
 			children = (
+				7CA658672F50719900CF081A /* StackOverflow.xctestplan */,
 				7CEAD1012F4A6559004E7C4E /* StackOverflow */,
 				7CEAD1182F4A655B004E7C4E /* StackOverflowTests */,
 				7CEAD1222F4A655B004E7C4E /* StackOverflowUITests */,
